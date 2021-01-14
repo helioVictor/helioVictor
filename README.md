@@ -5,7 +5,7 @@ I'm a computer science student at Rio Grande do Norte State University, also Fro
 :brazil: Living in Brazil
 
 ## What I'm Currently Studying
-* HTML5, CSS3 and Javascript
+* HTML5, CSS3, Javascript and ReactJS.
 
 ## Also find me on...
 [![Linkedin Badge](https://img.shields.io/badge/Hélio%20Soares-0073b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/h%C3%A9lio-soares-1b9957164/)](https://www.linkedin.com/in/h%C3%A9lio-soares-1b9957164/) 
