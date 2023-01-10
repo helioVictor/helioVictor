@@ -2,7 +2,7 @@
 
 I'm a software engineer, front-end development enthusiast and always looking for new experiences.
 
-:brazil: Living in Brazil
+:brazil: Living in Brazil</br>
 :mortar_board: Computer Science at Universidade do Estado do Rio Grande do Norte (UERN)
 
 <div>
