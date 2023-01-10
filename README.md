@@ -1,8 +1,9 @@
 ## Hey there
 
-I'm a computer science student at Rio Grande do Norte State University, also Front-end development enthusiast and always looking for new experiences.
+I'm a software engineer, front-end development enthusiast and always looking for new experiences.
 
 :brazil: Living in Brazil
+:mortar_board: Computer Science at Universidade do Estado do Rio Grande do Norte (UERN)
 
 <div>
   <a href="https://github.com/helioVictor">
