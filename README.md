@@ -5,11 +5,6 @@ I'm a software engineer, front-end development enthusiast and always looking for
 :brazil: Living in Brazil</br>
 :mortar_board: Computer Science at Universidade do Estado do Rio Grande do Norte (UERN)
 
-<div>
-  <a href="https://github.com/helioVictor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helioVictor&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<div>
-
 <div style="display: inline_block"><br>
   <h3>Working with</h3>
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
